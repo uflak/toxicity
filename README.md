@@ -3,4 +3,4 @@
 
 ## Developers / Geliştiriciler
 - [cwnnn](https://github.com/cwnnn)
-- [Me]([https://github.com/senin-kullanici-adin](https://github.com/uflak09842))
+- [Me](https://github.com/uflak09842)
